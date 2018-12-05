@@ -1,0 +1,220 @@
+body{
+    box-sizing: border-box;
+    background-color: black;
+}
+
+header{
+    padding: 0 20px;
+    margin-bottom: 10%;
+}
+
+header img{
+    max-width: 8%;
+}
+
+.wrap{
+    background: url(../images/ground.svg) center bottom no-repeat;
+    background-size: 100vw;
+}
+
+.container{
+    max-width: 1440px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.toewr{
+    display: block;
+    max-width: 46%;
+    margin: 0 auto;
+}
+
+
+
+section a img{
+    position: absolute;
+}
+.z-1{
+    z-index: -1;
+}
+
+.z1{
+    z-index: 1;
+}
+
+.z2{
+    z-index: 2;
+}
+
+.z3{
+    z-index: 3;
+}
+
+/* ---------------------top------------------ */
+.roof{
+    top: -4%;
+    left: 25%;
+    max-width: 52%;
+}
+
+.mtv{
+    top: 3%;
+    left: 18%;
+    max-width: 45%;
+}
+
+.box1{
+    top: 11%;
+    left: 12%;
+    max-width: 8%;
+}
+
+.box2{
+    top: 7%;
+    left: 6%;
+    max-width: 4%;
+}
+
+.box3{
+    top: 4%;
+    left: 13%;
+    max-width: 6%;
+}
+
+.lbox{
+    top: 5%;
+    left: 60%;
+    max-width: 27%;
+}
+
+.singbroad{
+    top: 8%;
+    left: 80%;
+    max-width: 13%;
+}
+
+
+/* --------------------floor4------------ */
+
+.a-title-f{
+    top: 21%;
+    left: 26%;
+    max-width: 48%;
+}
+
+.a-title-b{
+    top: 18%;
+    left: 26%;
+    max-width: 48%;
+}
+
+.headbox{
+    top: 27%;
+    left: 27.5%;
+    max-width: 21%;
+}
+
+.billbroad{
+    top: 26%;
+    left: 55%;
+    max-width: 20%;
+}
+
+.handle{
+    top: 29%;
+    left: 9%;
+    max-width: 10%;
+}
+/* --------------------floor3------------ */
+
+.skillbroad{
+    top: 42%;
+    left: 62%;
+    max-width: 25%;
+}
+
+.skillplat img{
+    max-width: 21%;
+}
+
+.skillplat1{
+    top: 58%;
+    left: 14%;
+}
+
+.skillplat2{
+    top: 57.5%;
+    left: 14%;
+}
+.skillplat3{
+    top: 58%;
+    left: 39%;
+}
+
+.skillplat4{
+    top: 57.5%;
+    left: 39%;
+}
+
+.skillplat5{
+    top: 58%;
+    left: 64%;
+}
+
+.skillplat6{
+    top: 57.5%;
+    left: 64%;
+}
+
+/* --------------------floor2------------ */
+
+
+.c-broad{
+    top: 64%;
+    left: 11%;
+    max-width: 28%;
+}
+
+.c-wall{
+    top: 65%;
+    left: 29%;
+    max-width: 47%;
+}
+
+.c-bill img{
+    max-width: 24%;
+}
+
+.c-bill1{
+    top: 66%;
+    left: 52%;
+}
+
+.c-bill2{
+    top: 66.5%;
+    left: 55%;
+}
+
+.c-bill3{
+    top: 67%;
+    left: 58%;
+}
+/* --------------------floor1------------ */
+
+.f-broad{
+    top: 83%;
+    left: 22.5%;
+    max-width: 31%;
+}
+
+.phone{
+    top: 89%;
+    left: 14%;
+    max-width: 8%;
+}
+
+.mail{
+    top: 95%;
+    left: 60%;
+    max-width: 12%;
+}
