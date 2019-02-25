@@ -113,22 +113,22 @@ section a img {
 /* --------------------floor4------------ */
 .about {
     position: absolute;
-    top: 21%;
-    left: 27%;
+    top: 20.5%;
+    left: 26%;
     z-index: 10;
     transform: matrix(1, 0.37, 0, 1, 45, -47);
     transform-origin: 0% 0%;
-    font-size: 6rem;
+    font-size: 7rem;
 }
 
 .me {
     position: absolute;
-    top: 20.5%;
-    left: 29%;
+    top: 20.2%;
+    left: 28%;
     z-index: 10;
     transform: matrix(1, -0.37, 0, 1, 466, 30);
     transform-origin: 0% 0%;
-    font-size: 6rem;
+    font-size: 7rem;
 }
 
 
